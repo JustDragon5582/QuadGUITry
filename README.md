@@ -4,7 +4,7 @@ Some experiments
 What must be done
 
 Generally: 
-I must create not too ugly GUI that will create the interface for the QUAD user.
+I must create not too ugly GUI that will create the interface for the QUAD user. Model-View-Controller (MVC) 
 
 Specs: 
 1. The code must be as suitable for raspberry pi 4 executable file. (.exe) 
